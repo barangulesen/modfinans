@@ -8,7 +8,10 @@ or <br>
 You just clone the code on your machine <br>
 index.html head file you can edit this with your any text editor before upload to your server <br>
 Just replace all words barangulesen.com  -> yourserver.com <br>
+<br>
+any questions or developing ideas -> info@barangulesen.com
 
+<br>
 <br>
 Happy Trade ! 
 
